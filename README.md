@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Hifza Shoaib  
 
-<!--
-**hifza-shoaib/hifza-shoaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year **BSCS Student** | 🤖 Passionate about **Artificial Intelligence & Computer Vision**  
 
-Here are some ideas to get you started:
+I love building projects in AI, Computer Vision, and Python. Currently, I’m exploring different applications of AI and aiming to become a skilled **AI Developer**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills  
+- Python (OpenCV, MediaPipe)  
+- Artificial Intelligence (AI)  
+- Computer Vision  
+- Machine Learning (ML)  
+- Object Oriented Programming (OOP)  
+
+---
+
+## 📚 Education  
+**BSCS (Final Semester)**  
+Relevant Courses:  
+- Artificial Intelligence (AI)  
+- Computer Vision  
+- Machine Learning  
+- Python Programming  
+- Object Oriented Programming (OOP)  
+
+---
+
+## 💻 Projects  
+- 🎵 **Hand Gesture Volume Control**  
+   A Computer Vision project using Python, OpenCV, and MediaPipe to control system volume with hand gestures.  
+
+---
+
+## 📫 Connect with Me  
+- GitHub: [hifza-shoaib](https://github.com/hifza-shoaib)  
+- Email: **hifzaakram564@gmail.com**  
+  
